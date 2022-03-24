@@ -29,4 +29,4 @@ This is a simple rest api with 3 endpoints
 
 - ` $  docker run -p 8080:8080 lukepig/useless-api`
 - Navigate in your browser to [localhost:8080](localhost:8080)
-- Have a blast hitting all those wonderful endpoints
+- Have a blast hitting all those wonderful endpoints.
